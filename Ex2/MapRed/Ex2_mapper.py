@@ -10,6 +10,7 @@ for line in sys.stdin:
     # remove leading and trailing whitespace
     line = line.strip()
     # split the line into words
+    line = line.translate(str.maketrans('', '', '\n'))
     words = line.split(",")
     
     region = words[6]

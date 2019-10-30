@@ -10,6 +10,7 @@ dic={}
 regions=[]
 for line in sys.stdin:
     # split the line into words
+    line = line.translate(str.maketrans('', '', '\n'))
     dist_type,region = line.split("\t")
     
     c = dist_type + region
