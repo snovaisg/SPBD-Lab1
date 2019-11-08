@@ -24,7 +24,7 @@ for line in sys.stdin:
         count += int(occurences)
     else:
         Emit(curr_continent,str(count))
-        count = 0
+        count = 1
         curr_continent = continent
 
 Emit(curr_continent, str(count))
