@@ -1,24 +1,16 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+
 # import sys
 import sys
 # import string library function  
 import string 
-from utils import Emit
 
-dic={}
+# input comes from STDIN (standard input)
 for line in sys.stdin:
     # remove leading and trailing whitespace
     line = line.strip()
     # split the line into words
-    line = line.translate(str.maketrans('', '', '\n'))
     words = line.split(",")
-    
+    dis_type = words[3]
     region = words[6]
-    dist_type = words[3]
-    c=dist_type+region
-    if c in dic:
-        continue
-    else:
-        dic[c]=True
-        Emit(dist_type,region)
-    
+    print(f"({dis_type},{region})\t1")
