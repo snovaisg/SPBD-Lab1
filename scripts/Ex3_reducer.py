@@ -6,12 +6,6 @@ import sys
 import string 
 
 # Utility functions
-def Emit(key: str, value: str, sep='\t'):
-    """
-    Emmits a key-value pair.
-    """
-    message = f'{key}' + sep + f'{value}'
-    print(message)
 
 def calculate_probas(injured, deaths, total_affected):
     """
@@ -30,10 +24,8 @@ def calculate_probas(injured, deaths, total_affected):
     return injured_proba, death_proba
 
 
-is_first = True
-curr_decade = ''
-curr_continent = ''
-curr_disaster = ''
+is_first_key = True
+curr_joint_keys = ''
 
 curr_total_affected = 0
 curr_total_deaths = 0
@@ -44,41 +36,39 @@ for line in sys.stdin:
     # remove leading and trailing whitespace
     line = line.strip()
     # split the line into key,value
-    keys,values = line.split('\t')
-    # separate compositeKey
-    continent, disaster, decade = eval(keys)
-    injured, total_deaths, total_affected = eval(values)
+    jointKeys,jointValues = line.split('\t')
+    # separate values
+    injured, total_deaths, total_affected = [int(e) for e in jointValues.split('_')]
     
-    if is_first:
-        is_first = False
-        curr_decade = decade
-        curr_continent = continent
-        curr_disaster = disaster
+    if is_first_key:
+        is_first_key = False
+        curr_joint_keys = jointKeys
         
         curr_total_affected += total_affected
         curr_total_deaths += total_deaths
         curr_injured += injured
         continue
     
-    if decade != curr_decade or continent != curr_continent or disaster != curr_disaster:
+    if curr_joint_keys != jointKeys:
         
         injured_proba, death_proba = \
             calculate_probas(curr_injured, curr_total_deaths, curr_total_affected)
-
-        print(f"({disaster},{continent},{decade}),injured_proba: {injured_proba:.3f}")
-        print(f"({disaster},{continent},{decade}),death_proba: {death_proba:.3f})")
+    
+        print(f"{jointKeys}, injured_proba: {injured_proba:.3f}")
+        print(f"{jointKeys}, death_proba: {death_proba:.3f}")
         
-        curr_decade = decade
-        curr_continent = continent
-        curr_disaster = disaster
-        
+        curr_joint_keys = jointKeys
         curr_total_affected = total_affected
         curr_total_deaths = total_deaths
         curr_injured = injured
         continue
+        
+    curr_total_affected += total_affected
+    curr_total_deaths += total_deaths
+    curr_injured += injured
+        
 # print the last one
-
 injured_proba, death_proba = \
     calculate_probas(curr_injured, curr_total_deaths, curr_total_affected)
-print(f"({disaster},{continent},{decade}),injure_proba: {injured_proba:.3f}")
-print(f"({disaster},{continent},{decade}),death_proba: {death_proba:.3f})")
+print(f"{jointKeys}, injured_proba: {injured_proba:.3f}")
+print(f"{jointKeys}, death_proba: {death_proba:.3f}")

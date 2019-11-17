@@ -21,7 +21,8 @@ def nan_to_zero(a: str)->int:
         return "0"
     return a
 
-# input comes from STDIN (standard input)
+# input comes from STDIN (standard input)s
+
 for line in sys.stdin:
     # remove leading and trailing whitespace
     line = line.strip()
@@ -38,4 +39,7 @@ for line in sys.stdin:
     if total_affected < sum(casualties[:-1]):
         total_affected = sum(casualties[:-1])
     
-    print(f"('{disaster}','{continent}','{decade}')\t{[injured, total_deaths, total_affected]}")
+    joint_key = "_".join([disaster,continent,decade])
+    joint_values = "_".join([str(injured), str(total_deaths), str(total_affected)])
+    
+    Emit(joint_key, joint_values)

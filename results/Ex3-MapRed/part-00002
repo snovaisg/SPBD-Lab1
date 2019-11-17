@@ -1,0 +1,222 @@
+Complex Disasters_Africa_1970, injured_proba: 0.000	
+Complex Disasters_Africa_1970, death_proba: 0.557	
+Complex Disasters_Africa_2000, injured_proba: 0.000	
+Complex Disasters_Africa_2000, death_proba: 0.000	
+Complex Disasters_Americas_2000, injured_proba: 0.000	
+Complex Disasters_Americas_2000, death_proba: 0.000	
+Complex Disasters_Asia_2010, injured_proba: 0.000	
+Complex Disasters_Asia_2010, death_proba: 0.000	
+Drought_Africa_1940, injured_proba: 0.000	
+Drought_Africa_1940, death_proba: 0.000	
+Drought_Africa_1990, injured_proba: 0.000	
+Drought_Africa_1990, death_proba: 1.000	
+Drought_Americas_1990, injured_proba: 0.000	
+Drought_Americas_1990, death_proba: 0.000	
+Drought_Asia_1980, injured_proba: 0.000	
+Drought_Asia_1980, death_proba: 0.000	
+Drought_Asia_2010, injured_proba: 0.000	
+Drought_Asia_2010, death_proba: 0.000	
+Earthquake_Africa_1900, injured_proba: 0.000	
+Earthquake_Africa_1900, death_proba: 0.000	
+Earthquake_Africa_1950, injured_proba: 0.000	
+Earthquake_Africa_1950, death_proba: 1.000	
+Earthquake_Americas_1910, injured_proba: 0.000	
+Earthquake_Americas_1910, death_proba: 0.005	
+Earthquake_Americas_1960, injured_proba: 0.000	
+Earthquake_Americas_1960, death_proba: 1.000	
+Earthquake_Asia_1900, injured_proba: 0.002	
+Earthquake_Asia_1900, death_proba: 0.002	
+Earthquake_Asia_1950, injured_proba: 0.000	
+Earthquake_Asia_1950, death_proba: 1.000	
+Earthquake_Europe_1940, injured_proba: 0.082	
+Earthquake_Europe_1940, death_proba: 0.096	
+Earthquake_Europe_1990, injured_proba: 0.000	
+Earthquake_Europe_1990, death_proba: 1.000	
+Epidemic_Africa_1960, injured_proba: 0.006	
+Epidemic_Africa_1960, death_proba: 0.002	
+Epidemic_Americas_1900, injured_proba: 0.000	
+Epidemic_Americas_1900, death_proba: 0.016	
+Epidemic_Americas_1950, injured_proba: 0.000	
+Epidemic_Americas_1950, death_proba: 1.000	
+Epidemic_Asia_1920, injured_proba: 0.000	
+Epidemic_Asia_1920, death_proba: 0.030	
+Epidemic_Asia_1970, injured_proba: 0.000	
+Epidemic_Asia_1970, death_proba: 1.000	
+Epidemic_Asia_2000, injured_proba: 0.000	
+Epidemic_Asia_2000, death_proba: 0.001	
+Epidemic_Europe_1980, injured_proba: 0.000	
+Epidemic_Europe_1980, death_proba: 0.004	
+Extreme temperature _Americas_1960, injured_proba: 0.000	
+Extreme temperature _Americas_1960, death_proba: 0.163	
+Extreme temperature _Asia_1970, injured_proba: 0.000	
+Extreme temperature _Asia_1970, death_proba: 1.000	
+Extreme temperature _Asia_2000, injured_proba: 0.000	
+Extreme temperature _Asia_2000, death_proba: 1.000	
+Extreme temperature _Europe_1980, injured_proba: 0.000	
+Extreme temperature _Europe_1980, death_proba: 0.000	
+Extreme temperature _Europe_2010, injured_proba: 0.000	
+Extreme temperature _Europe_2010, death_proba: 0.065	
+Extreme temperature _Oceania_2010, injured_proba: 0.006	
+Extreme temperature _Oceania_2010, death_proba: 0.041	
+Flood_Africa_1980, injured_proba: 0.000	
+Flood_Africa_1980, death_proba: 1.000	
+Flood_Africa_2010, injured_proba: 0.000	
+Flood_Africa_2010, death_proba: 0.000	
+Flood_Americas_1920, injured_proba: 0.000	
+Flood_Americas_1920, death_proba: 0.000	
+Flood_Americas_1970, injured_proba: 0.000	
+Flood_Americas_1970, death_proba: 1.000	
+Flood_Americas_2000, injured_proba: 0.000	
+Flood_Americas_2000, death_proba: 0.000	
+Flood_Asia_1930, injured_proba: 0.000	
+Flood_Asia_1930, death_proba: 0.000	
+Flood_Asia_1980, injured_proba: 0.000	
+Flood_Asia_1980, death_proba: 0.123	
+Flood_Asia_2010, injured_proba: 0.000	
+Flood_Asia_2010, death_proba: 0.000	
+Flood_Europe_1900, injured_proba: 0.000	
+Flood_Europe_1900, death_proba: 0.000	
+Flood_Europe_1950, injured_proba: 0.000	
+Flood_Europe_1950, death_proba: 1.000	
+Flood_Oceania_1970, injured_proba: 0.000	
+Flood_Oceania_1970, death_proba: 0.002	
+Flood_Oceania_2000, injured_proba: 0.000	
+Flood_Oceania_2000, death_proba: 0.001	
+Industrial accident_Africa_1980, injured_proba: 0.000	
+Industrial accident_Africa_1980, death_proba: 0.000	
+Industrial accident_Africa_2010, injured_proba: 0.101	
+Industrial accident_Africa_2010, death_proba: 0.211	
+Industrial accident_Americas_1970, injured_proba: 0.009	
+Industrial accident_Americas_1970, death_proba: 0.035	
+Industrial accident_Americas_2000, injured_proba: 0.004	
+Industrial accident_Americas_2000, death_proba: 0.001	
+Industrial accident_Asia_1900, injured_proba: 0.001	
+Industrial accident_Asia_1900, death_proba: 0.000	
+Industrial accident_Asia_1950, injured_proba: 0.000	
+Industrial accident_Asia_1950, death_proba: 1.000	
+Industrial accident_Europe_1920, injured_proba: 0.564	
+Industrial accident_Europe_1920, death_proba: 0.355	
+Industrial accident_Europe_1970, injured_proba: 0.644	
+Industrial accident_Europe_1970, death_proba: 0.275	
+Industrial accident_Europe_2000, injured_proba: 0.002	
+Industrial accident_Europe_2000, death_proba: 0.001	
+Insect infestation_Africa_1910, injured_proba: 0.082	
+Insect infestation_Africa_1910, death_proba: 0.024	
+Landslide_Americas_1910, injured_proba: 0.000	
+Landslide_Americas_1910, death_proba: 0.000	
+Landslide_Americas_1960, injured_proba: 0.151	
+Landslide_Americas_1960, death_proba: 0.844	
+Landslide_Asia_1950, injured_proba: 0.000	
+Landslide_Asia_1950, death_proba: 0.000	
+Landslide_Europe_1940, injured_proba: 0.000	
+Landslide_Europe_1940, death_proba: 1.000	
+Landslide_Europe_1990, injured_proba: 0.000	
+Landslide_Europe_1990, death_proba: 1.000	
+Mass movement (dry)_Americas_1900, injured_proba: 0.005	
+Mass movement (dry)_Americas_1900, death_proba: 0.022	
+Mass movement (dry)_Americas_1950, injured_proba: 0.233	
+Mass movement (dry)_Americas_1950, death_proba: 0.756	
+Mass movement (dry)_Asia_1960, injured_proba: 0.001	
+Mass movement (dry)_Asia_1960, death_proba: 0.001	
+Mass movement (dry)_Europe_1980, injured_proba: 0.000	
+Mass movement (dry)_Europe_1980, death_proba: 1.000	
+Mass movement (dry)_Europe_2010, injured_proba: 0.000	
+Mass movement (dry)_Europe_2010, death_proba: 0.003	
+Mass movement (dry)_Oceania_1980, injured_proba: 0.000	
+Mass movement (dry)_Oceania_1980, death_proba: 0.020	
+Miscellaneous accident_Africa_1950, injured_proba: 0.000	
+Miscellaneous accident_Africa_1950, death_proba: 0.036	
+Miscellaneous accident_Americas_1920, injured_proba: 0.000	
+Miscellaneous accident_Americas_1920, death_proba: 1.000	
+Miscellaneous accident_Americas_1970, injured_proba: 0.000	
+Miscellaneous accident_Americas_1970, death_proba: 1.000	
+Miscellaneous accident_Americas_2000, injured_proba: 0.000	
+Miscellaneous accident_Americas_2000, death_proba: 0.002	
+Miscellaneous accident_Asia_1920, injured_proba: 0.363	
+Miscellaneous accident_Asia_1920, death_proba: 0.111	
+Miscellaneous accident_Asia_1970, injured_proba: 0.000	
+Miscellaneous accident_Asia_1970, death_proba: 1.000	
+Miscellaneous accident_Asia_2000, injured_proba: 0.002	
+Miscellaneous accident_Asia_2000, death_proba: 0.005	
+Miscellaneous accident_Europe_1940, injured_proba: 0.047	
+Miscellaneous accident_Europe_1940, death_proba: 0.021	
+Miscellaneous accident_Europe_1990, injured_proba: 0.720	
+Miscellaneous accident_Europe_1990, death_proba: 0.071	
+Miscellaneous accident_Oceania_1990, injured_proba: 0.229	
+Miscellaneous accident_Oceania_1990, death_proba: 0.145	
+Storm_Africa_1980, injured_proba: 0.000	
+Storm_Africa_1980, death_proba: 0.002	
+Storm_Africa_2010, injured_proba: 0.000	
+Storm_Africa_2010, death_proba: 0.000	
+Storm_Americas_1900, injured_proba: 0.000	
+Storm_Americas_1900, death_proba: 0.000	
+Storm_Americas_1950, injured_proba: 0.000	
+Storm_Americas_1950, death_proba: 1.000	
+Storm_Asia_1900, injured_proba: 0.000	
+Storm_Asia_1900, death_proba: 0.010	
+Storm_Asia_1950, injured_proba: 0.000	
+Storm_Asia_1950, death_proba: 1.000	
+Storm_Europe_1950, injured_proba: 0.000	
+Storm_Europe_1950, death_proba: 0.002	
+Storm_Oceania_1950, injured_proba: 0.000	
+Storm_Oceania_1950, death_proba: 1.000	
+Transport accident_Africa_1950, injured_proba: 0.184	
+Transport accident_Africa_1950, death_proba: 0.072	
+Transport accident_Americas_1900, injured_proba: 0.000	
+Transport accident_Americas_1900, death_proba: 0.903	
+Transport accident_Americas_1950, injured_proba: 0.000	
+Transport accident_Americas_1950, death_proba: 1.000	
+Transport accident_Asia_1920, injured_proba: 0.114	
+Transport accident_Asia_1920, death_proba: 0.199	
+Transport accident_Asia_1970, injured_proba: 0.000	
+Transport accident_Asia_1970, death_proba: 1.000	
+Transport accident_Asia_2000, injured_proba: 0.185	
+Transport accident_Asia_2000, death_proba: 0.341	
+Transport accident_Europe_1920, injured_proba: 0.125	
+Transport accident_Europe_1920, death_proba: 0.222	
+Transport accident_Europe_1970, injured_proba: 0.453	
+Transport accident_Europe_1970, death_proba: 0.415	
+Transport accident_Europe_2000, injured_proba: 0.378	
+Transport accident_Europe_2000, death_proba: 0.557	
+Transport accident_Oceania_1950, injured_proba: 0.311	
+Transport accident_Oceania_1950, death_proba: 0.521	
+Volcanic activity_Africa_1900, injured_proba: 0.000	
+Volcanic activity_Africa_1900, death_proba: 1.000	
+Volcanic activity_Americas_1920, injured_proba: 0.000	
+Volcanic activity_Americas_1920, death_proba: 1.000	
+Volcanic activity_Americas_1970, injured_proba: 0.000	
+Volcanic activity_Americas_1970, death_proba: 1.000	
+Volcanic activity_Americas_2000, injured_proba: 0.000	
+Volcanic activity_Americas_2000, death_proba: 0.000	
+Volcanic activity_Asia_1920, injured_proba: 0.000	
+Volcanic activity_Asia_1920, death_proba: 0.000	
+Volcanic activity_Asia_1970, injured_proba: 0.000	
+Volcanic activity_Asia_1970, death_proba: 1.000	
+Volcanic activity_Asia_2000, injured_proba: 0.007	
+Volcanic activity_Asia_2000, death_proba: 0.002	
+Volcanic activity_Europe_1940, injured_proba: 0.000	
+Volcanic activity_Europe_1940, death_proba: 0.000	
+Volcanic activity_Europe_1990, injured_proba: 0.000	
+Volcanic activity_Europe_1990, death_proba: 0.001	
+Volcanic activity_Oceania_1960, injured_proba: 0.000	
+Volcanic activity_Oceania_1960, death_proba: 0.000	
+Wildfire_Africa_1990, injured_proba: 0.000	
+Wildfire_Africa_1990, death_proba: 0.000	
+Wildfire_Americas_1980, injured_proba: 0.001	
+Wildfire_Americas_1980, death_proba: 0.011	
+Wildfire_Americas_2010, injured_proba: 0.000	
+Wildfire_Americas_2010, death_proba: 0.000	
+Wildfire_Asia_1980, injured_proba: 0.001	
+Wildfire_Asia_1980, death_proba: 0.000	
+Wildfire_Asia_2010, injured_proba: 0.001	
+Wildfire_Asia_2010, death_proba: 0.001	
+Wildfire_Europe_1960, injured_proba: 0.000	
+Wildfire_Europe_1960, death_proba: 0.000	
+Wildfire_Oceania_1930, injured_proba: 0.000	
+Wildfire_Oceania_1930, death_proba: 1.000	
+Wildfire_Oceania_1980, injured_proba: 0.000	
+Wildfire_Oceania_1980, death_proba: 0.008	
+Wildfire_Oceania_2010, injured_proba: 0.006	
+Wildfire_Oceania_2010, death_proba: 0.003	
+Wildfire_Oceania_2010, injured_proba: 0.024	
+Wildfire_Oceania_2010, death_proba: 0.001	
